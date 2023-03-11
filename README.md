@@ -1,7 +1,7 @@
 # mad-gokarting
 Simple karting script for QBCORE
 
-Preview: coming soon
+Preview: https://www.youtube.com/watch?v=hLdJGADAV24
 
 # Dependency
 
